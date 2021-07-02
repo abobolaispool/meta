@@ -1,13 +1,13 @@
 # meta
 {
 	"info": {
-		"url_png_icon_64x64": "https://bit.ly/2UdHt9g",
-		"url_png_logo": "https://bit.ly/3oafTos",
+		"url_png_icon_64x64": "https://git.io/JcRiG",
+		"url_png_logo": "https://git.io/JcRiG",
 		"location": "Atlanta, USA",
 		"social": {
 			"twitter_handle": "abobolaispool",
 			"reddit_handle": "abobolaispool",
-			"telegram_handle": "abobopool"
+			"telegram_handle": "abobolaispool"
 		},
 		"about": {
 			"me": "We are Reliable, Secure, and High performance staking nodes for providing maximum returns for long term ADA investors and Holders.With Abobolais Pool we will grow and secure Cardano Network Together. Check us out at http://abobolaispool.com",
