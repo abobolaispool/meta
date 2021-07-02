@@ -1,8 +1,8 @@
 # meta
 {
 	"info": {
-		"url_png_icon_64x64": "https://git.io/JcRiG",
-		"url_png_logo": "https://git.io/JcRiG",
+		"url_png_icon_64x64": "https://bit.ly/36b51yq",
+		"url_png_logo": "https://bit.ly/36b51yq",
 		"location": "Atlanta, USA",
 		"social": {
 			"twitter_handle": "abobolaispool",
